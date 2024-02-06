@@ -1,3 +1,4 @@
+// Le doy el alias fs al modulo promises con as(palabra reservada)
 import { promises as fs } from 'fs'
 
 export class ProductManager {
